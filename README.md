@@ -1,5 +1,5 @@
 # pagila-hw2
-This is for Big Data Class.
+This is for Big Data Class in Claremont McKenna College
 
 [![](https://github.com/mariagerges/pagila-hw2/workflows/tests/badge.svg)](https://github.com/mariagerges/pagila-hw2/actions?query=workflow%3Atests)
 
