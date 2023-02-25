@@ -1,5 +1,7 @@
 # pagila-hw2
-[![](https://github.com/mikeizbicki/pagila-hw2/workflows/tests/badge.svg)](https://github.com/mikeizbicki/pagila-hw2/actions?query=workflow%3Atests)
+This is for Big Data Class.
+
+[![](https://github.com/mariagerges/pagila-hw2/workflows/tests/badge.svg)](https://github.com/mariagerges/pagila-hw2/actions?query=workflow%3Atests)
 
 ## Tasks
 
